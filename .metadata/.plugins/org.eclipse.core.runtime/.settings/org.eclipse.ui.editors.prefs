@@ -1,0 +1,8 @@
+AbstractTextEditor.Color.Background=28,31,34
+AbstractTextEditor.Color.Background.SystemDefault=false
+AbstractTextEditor.Color.SelectionBackground.SystemDefault=false
+AbstractTextEditor.Color.SelectionForeground.SystemDefault=false
+eclipse.preferences.version=1
+errorIndicationColor=255,128,255
+overviewRuler_migration=migrated_3.1
+warningIndicationColor=0,255,128

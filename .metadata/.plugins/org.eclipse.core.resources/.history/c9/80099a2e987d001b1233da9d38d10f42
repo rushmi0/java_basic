@@ -1,0 +1,17 @@
+fun main(args: Array<String>) {
+
+	val s = ArrayOf<String>("A", "B", "C", "D", "E")
+	val m = Array<Int>(6) { 1 }
+
+	m[1] = 10
+	m[3] = 15
+
+	for (_m in m) {
+		println(_m)
+	}
+	println(a.get(3))
+    println()
+    println(a[3])
+	
+}
+
